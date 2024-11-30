@@ -22,7 +22,7 @@ result = os.popen('figlet MID-PAINEL').read()
 
 os.system('clear')
 
-print(f'Painel de Consultas básicas by Dr Midnight')
+print(f'Painel de Consultas básicas by GARRA___')
 
 
 def clear():
